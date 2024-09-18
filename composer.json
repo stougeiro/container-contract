@@ -1,0 +1,21 @@
+{
+    "name": "stougeiro/container-contract",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "stougeiro",
+            "email": "sidneytougeiro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "STDW\\Container\\Contract\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1",
+        "psr/container": "2.0.2"
+    }
+}
