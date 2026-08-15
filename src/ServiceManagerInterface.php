@@ -6,10 +6,10 @@
     interface ServiceManagerInterface
     {
         /**
-         * @param string $provider 
+         * @param ServiceProviderInterface $provider 
          * @return void 
          */
-        public function add(string $provider): void;
+        public function add(ServiceProviderInterface $provider): void;
 
         /** @return void 
          */
