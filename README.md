@@ -1,4 +1,6 @@
-![phpstan-level](https://img.shields.io/badge/PHPStan-Level%209-brightgreen)
+![PHP](https://img.shields.io/badge/PHP-%20^8.2-777BB4)
+![PHPStan-Level](https://img.shields.io/badge/PHPStan-Level%209-224488)
+![License](https://img.shields.io/badge/License-MIT-777)
 
 # Container Contract
 
