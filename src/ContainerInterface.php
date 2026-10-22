@@ -28,4 +28,10 @@
          * @return void 
          */
         public function singleton(string $id, callable|string|null $implementation = null): void;
+
+        /**
+         * @param string $id 
+         * @return mixed 
+         */
+        public function make(string $id): mixed;
     }
